@@ -1,0 +1,1 @@
+python test.py --trained_model="weights\craft_mlt_25k.pth" --test_folder="../\data\image\infographic_separ
